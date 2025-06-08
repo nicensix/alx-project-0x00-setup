@@ -1,4 +1,7 @@
+import Button from "@/components/Button";
+import React from "react";
 import Card from "@/components/Card";
+
 const Home: React.FC = () => {
   return (
     <main className="flex flex-col h-screen justify-center items-center text-4xl font-semibold">

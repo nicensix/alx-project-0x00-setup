@@ -1,4 +1,7 @@
+import Button from "@/components/Button";
+import React from "react";
 import Card from "@/components/Card";
+
 const About: React.FC =  () => {
   return (
     <div>
