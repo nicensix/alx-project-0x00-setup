@@ -1,3 +1,5 @@
+import { PillProps } from "@/interfaces";
+
 import React from "react";
 
 interface PillProps {
